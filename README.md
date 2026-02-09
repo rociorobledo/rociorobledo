@@ -1,21 +1,24 @@
 ## Hola! Soy Rocio 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Analista+de+Datos+%7C+Business+Intelligence;Visualización+de+Datos+y+Analítica+Digital;Transformando+datos+en+insights+claros;Analista+remota+lista+para+sumar+valor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Analista+de+Datos+%7C+Business+Intelligence;Visualización+de+Datos+y+Analítica+Digital;Transformando+datos+en+insights+claros" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rocio-robledo](https://www.linkedin.com/in/rociomalenrobledo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/rociomalenrobledo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:robledorociomalen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-green?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
 ## 🚀 Sobre mí
 
-Soy **Analista de Datos con foco en visualización y analítica digital**, orientada a transformar datos crudos en información clara y accionable para la toma de decisiones.
+Soy **Administradora y Analista de Datos con foco en visualización y analítica digital**, orientada a transformar datos crudos en información clara y accionable para la toma de decisiones.
 
 Trabajo principalmente con **Power BI, Excel, GA4 y Looker Studio**, creando dashboards que no solo se ven bien, sino que se usan: con KPIs claros, contexto de negocio y análisis de comportamiento de usuarios.
 
@@ -42,16 +45,16 @@ Creo en el poder del dato bien contado: un insight solo es valioso si se entiend
 
 #### Análisis y Visualización de Datos
 <p>
-  <img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Avanzado-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Looker%20Studio-Avanzado-4285F4?style=flat&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/GA4-Avanzado-E37400?style=flat&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermedio-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Looker%20Studio-Intermedio-4285F4?style=flat&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/GA4%20%2B%20GTM-Intermedio-E37400?style=flat&logo=googleanalytics&logoColor=white">
 </p>
+
 
 #### Datos y Automatización
 <p>
   <img src="https://img.shields.io/badge/SQL-En%20aprendizaje-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Limpieza%20de%20Datos-Experiencia-6A5ACD?style=flat">
+  <img src="https://img.shields.io/badge/Limpieza%20de%20Datos-Avanzado-6A5ACD?style=flat">
 </p>
 
 #### Business Intelligence & Analítica
