@@ -22,14 +22,14 @@ Me interesa trabajar en proyectos donde los datos ayuden a mejorar la experienci
 
 ## 📁 Algunos de mis proyectos
 
-### [Google Merch Store Dashboard](https://github.com/rociorobledo/google-merch-store)
+### [Google Merch Store Dashboard](https://github.com/rociorobledo/ecommerce_google-merch-store)
 Dashboard interactivo con Looker Studio analizando comportamiento de usuarios y conversiones en e-commerce.  
 🔗 **[Ver online](https://lookerstudio.google.com/s/ixmVnPz5AJY)**
 
-### [Análisis del Tráfico Aéreo](https://github.com/rociorobledo/air-traffic-analysis)
+### [Análisis del Tráfico Aéreo](https://github.com/rociorobledo/analisis_trafico_aereo)
 Dashboard en Power BI con datos públicos del SIAC sobre tráfico aéreo en Argentina.  
 
-### [User Journey & Funnel Analysis](https://github.com/rociorobledo/user-journey)
+### [User Journey & Funnel Analysis](https://github.com/rociorobledo/user_journey_performance_analysis)
 Análisis de funnel de conversión y puntos de abandono con Looker Studio.  
 🔗 **[Ver online](https://lookerstudio.google.com/s/noI8W7PzADk)**
 
