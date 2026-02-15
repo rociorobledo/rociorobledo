@@ -12,7 +12,7 @@ Me interesa trabajar en proyectos donde los datos ayuden a mejorar la experienci
 
 - **Analítica Digital:** Implementaciones y análisis con GA4 y GTM
 - **Dashboards de BI:** Reportes interactivos en Power BI y Looker Studio
-- **Portfolio de datos:** Casos reales enfocados en impacto de negocio
+- **Portfolio de datos:** Casos enfocados en impacto de negocio
 
 ## 🌱 Aprendiendo actualmente
 
@@ -20,17 +20,16 @@ Me interesa trabajar en proyectos donde los datos ayuden a mejorar la experienci
 - Automatización de procesos analíticos con Python
 - Mejores prácticas en analítica de usuarios y crecimiento
 
-## 📁 Mis proyectos destacados
+## 📁 Algunos de mis proyectos
 
 ### [Google Merch Store Dashboard](https://github.com/rociorobledo/google-merch-store)
 Dashboard interactivo con Looker Studio analizando comportamiento de usuarios y conversiones en e-commerce.  
-🔗 **[Ver online](https://rociorobledo.github.io/google-merch-store/)**
+🔗 **[Ver online](https://lookerstudio.google.com/s/ixmVnPz5AJY)**
 
 ### [Análisis del Tráfico Aéreo](https://github.com/rociorobledo/air-traffic-analysis)
 Dashboard en Power BI con datos públicos del SIAC sobre tráfico aéreo en Argentina.  
-🔗 **[Ver online](https://rociorobledo.github.io/air-traffic-analysis/)**
 
 ### [User Journey & Funnel Analysis](https://github.com/rociorobledo/user-journey)
 Análisis de funnel de conversión y puntos de abandono con Looker Studio.  
-🔗 **[Ver online](https://rociorobledo.github.io/user-journey/)**
+🔗 **[Ver online](https://lookerstudio.google.com/s/noI8W7PzADk)**
 
